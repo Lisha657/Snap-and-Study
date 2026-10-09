@@ -2,6 +2,10 @@
 
 Snap & Study is an AI-powered learning assistant that helps students understand difficult questions, diagrams, notes, and PDFs through simple, step-by-step explanations. Students can also email AI-generated study summaries for later revision.
 
+## 🚀 Live Demo
+
+- **Try Snap & Study:** ( https://snap-and-study-bbdbxzeyxdpnrfp7jhotyh.streamlit.app/ )
+
 ## Features
 
 - Upload photos of questions, diagrams, and handwritten notes.
